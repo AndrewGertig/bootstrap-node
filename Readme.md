@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/AndrewGertig/bootstrap-node.png)](http://travis-ci.org/AndrewGertig/bootstrap-node)
 bootstrap allows you to create a new node.js app with a few things already setup to get you started. It takes a lot of inspiration from the express app executable.
 
 You can use Javascript or Coffeescript by following the prompts.
